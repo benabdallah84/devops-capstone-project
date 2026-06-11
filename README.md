@@ -5,6 +5,18 @@
 
 This repository contains the starter code for the project in [**IBM-CD0285EN-SkillsNetwork DevOps Capstone Project**](https://www.coursera.org/learn/devops-capstone-project?specialization=devops-and-software-engineering) which is part of the [**IBM DevOps and Software Engineering Professional Certificate**](https://www.coursera.org/professional-certificates/devops-and-software-engineering)
 
+## Project title
+This project is named : devops-capstone-project
+
+## Project Overview
+We need to develop an account microservice to keep track of customers on our e-commerce website. As a microservice, it should provide a well-designed REST API that can be consumed by other services within the application.
+
+Initially, we need to support the core customer management operations: create, read, update, delete, and list customer accounts.
+
+Part of the implementation has already been completed. The database model has been created, and a Python Flask-based REST API endpoint for creating customer accounts is already available. We now need to plan and implement the remaining REST API endpoints for reading, updating, deleting, and listing customer accounts.
+
+Before starting development, we also need to prepare the online lab environment. This includes setting up the development workspace, reviewing the existing codebase, verifying dependencies, and ensuring the application is ready for implementing and testing the new functionality.
+
 ## Usage
 
 You should use this template to start your DevOps Capstone project. It contains all of the code that you will need to get started.
